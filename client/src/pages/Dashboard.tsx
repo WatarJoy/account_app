@@ -217,7 +217,7 @@ const Dashboard: React.FC = () => {
             outerRadius={100}
             label
           >
-            {data.map((entry, index) => (
+            {data.map((_entry, index) => (
               <Cell key={index} fill={index === 0 ? "#00C49F" : "#FF8042"} />
             ))}
           </Pie>
