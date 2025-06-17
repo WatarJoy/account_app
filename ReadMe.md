@@ -17,7 +17,7 @@ Users can register and log in to their accounts. All transactions are associated
 
 ## Database
 
-All data is stored in PostgreSQL. The database includes tables for users, transactions, categories, and more.
+All data is stored in PostgreSQL. The database includes tables for users and transactions.
 
 ## Getting Started
 
